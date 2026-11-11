@@ -1,4 +1,4 @@
-<img width="303" height="198" alt="Project2_wireframe3" src="https://github.com/user-attachments/assets/5a11297b-4944-424f-8b70-b1fb3f94f5c5" /># Weather Explorer 🌡️
+# Weather Explorer 🌡️
 
 **Author:** Ammaela Khan
 
@@ -28,7 +28,7 @@ The planned features of my application include:
 
 - **Published application:** [Weather Explorer](https://musical-starburst-38c34d.netlify.app/)
 - **GitHub repository:** [Project2_WeatherExplorer](https://github.com/AmmaelaKhan15/Project2_WeatherExplorer)
-- **Project video presentation:** [Add your presentation video URL here]
+- **Project video presentation:** [Add your presentation video URL here]https://canva.link/ev99hf0rqx0z9hh
 
 ## About the application
 

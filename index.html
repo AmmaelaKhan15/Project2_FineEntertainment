@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="js/script.js" defer></script>
+</head>
+
+<body>
+
+    <!-- Header with the app name and a short description -->
+    <header>
+        <h1>Weather Explorer 🌡️</h1>
+        <p>Search for the weather anywhere in the world!</p>
+    </header>
+
+    <main>
+
+        <!-- Form where the user can enter a city to search for -->
+        <form class="weatherForm">
+
+            <label for="city">City name:</label>
+
+            <input
+                type="text"
+                id="city"
+                class="cityInput"
+                placeholder="Enter a city"
+            >
+
+            <!-- Button to submit the city name -->
+            <button type="submit">Get Weather</button>
+
+        </form>
+
+        <!-- Weather information will be added here using JavaScript -->
+        <div class="card" style="display: none;"></div>
+
+    </main>
+
+    <!-- Footer with information about the API used -->
+    <footer>
+        <br>
+        <p>Made with the OpenWeather API.</p>
+    </footer>
+
+</body>
+</html>
